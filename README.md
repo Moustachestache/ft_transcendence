@@ -1,2 +1,3 @@
-# ft_transcendence
-Graduating project @42perpignan: full stack webapp to play pong online.
+# the little bricks for that big project.
+good base for web dev. :  https://cs50.harvard.edu/web/2020/
+
